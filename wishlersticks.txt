@@ -11,15 +11,15 @@ dimwishlist:item=4096943616,981914802,2822142346,3300816228,1683379515
 
 // Escape Velocity (Osmosis)
 //notes:Wilklersticks
-dimwishlist:item=1786797708&perks=,3643424744,1774574192
+dimwishlist:item=1786797708&perks=3643424744,1774574192
 
 // The Last Breath
 //notes:Wilklersticks
-dimwishlist:item=507038823&perks=,3523296417,1774574192
+dimwishlist:item=507038823&perks=3523296417,1774574192
 
 // BxR Battler
 //notes:Wilklersticks
-dimwishlist:item=2708806099&perks=,2450788523,3511092054
+dimwishlist:item=2708806099&perks=2450788523,3511092054
 
 // Piece of Mind
 //notes:Wilklersticks
@@ -29,191 +29,191 @@ dimwishlist:item=2097055732&perks=839105230,1561002382,1428297954,3511092054
 
 // RIPTIDE
 //notes:Per Aztecross - Wilklersticks|tags:PVE,Wilkersticks
-dimwishlist:item=2715240478&perks=,3300816228,2978966579
+dimwishlist:item=2715240478&perks=3300816228,2978966579
 
 // Calus Mini-Tool
 //notes:Per Aztecross - Wilklersticks|tags:PVE,Wilkersticks
-dimwishlist:item=2490988246&perks=,4071163871,4293542123
+dimwishlist:item=2490988246&perks=4071163871,4293542123
 
 // SWEET SORROW
 //notes:Per Aztecross - Wilklersticks|tags:PVE,Wilkersticks
-dimwishlist:item=1248372789&perks=,1583705720,4049631843
+dimwishlist:item=1248372789&perks=1583705720,4049631843
 
 // RECURRENT IMPACT
 //notes:Per Aztecross - Wilklersticks|tags:PVE,Wilkersticks
-dimwishlist:item=1572896086&perks=,1820235745,4049631843
+dimwishlist:item=1572896086&perks=1820235745,4049631843
 
 // STORMCHASER
 //notes:Per Aztecross - Wilklersticks|tags:PVE,Wilkersticks
-dimwishlist:item=3652506829&perks=,1483536627,2284787283,1771339417
-dimwishlist:item=3652506829&perks=,1483536627,247725512,1771339417
+dimwishlist:item=3652506829&perks=1483536627,2284787283,1771339417
+dimwishlist:item=3652506829&perks=1483536627,247725512,1771339417
 
 // FORBEARANCE
 //notes:Per Aztecross - Wilklersticks|tags:PVE,Wilkersticks
-dimwishlist:item=613334176&perks=,2010801679,2396489472
+dimwishlist:item=613334176&perks=2010801679,2396489472
 
 // CATACLYSMIC
 //notes:Per Aztecross - Wilklersticks|tags:PVE,Wilkersticks
-dimwishlist:item=999767358&perks=,2680121939,1354429876,3078487919
+dimwishlist:item=999767358&perks=2680121939,1354429876,3078487919
 
 // ZAOULI'S BANE
 //notes:Per Aztecross - Wilklersticks|tags:PVE,Wilkersticks
-dimwishlist:item=431721920&perks=,3038247973,4293542123
+dimwishlist:item=431721920&perks=3038247973,4293542123
 
 // TARNISHED METTLE
 //notes:Per Aztecross - Wilklersticks|tags:PVE,Wilkersticks
-dimwishlist:item=2218569744&perks=,247725512,2173046394
+dimwishlist:item=2218569744&perks=247725512,2173046394
 
 // TAIPAN-4FR
 //notes:Per Aztecross - Wilklersticks|tags:PVE,Wilkersticks
-dimwishlist:item=1911060537&perks=,3400784728,1771339417
-dimwishlist:item=1911060537&perks=,2284787283,1771339417
+dimwishlist:item=1911060537&perks=3400784728,1771339417
+dimwishlist:item=1911060537&perks=2284787283,1771339417
 
 // IKELOS_SMG_V1.0.3
 //notes:Wilklersticks
-dimwishlist:item=2149683300&perks=,2779035018,2173046394
+dimwishlist:item=2149683300&perks=2779035018,2173046394
 
 // IKELOS_SMG_V1.0.2
 //notes:Wilklersticks
-dimwishlist:item=2222560548&perks=,3523296417
+dimwishlist:item=2222560548&perks=3523296417
 
 // PROLONGED ENGAGEMENT
 //notes:Wilklersticks
-dimwishlist:item=2349907931&perks=,1820235745,124408337
-dimwishlist:item=2349907931&perks=,1820235745,4049631843
-dimwishlist:item=2349907931&perks=,1820235745,4104185692
-dimwishlist:item=2349907931&perks=,1820235745,3708227201
-dimwishlist:item=2349907931&perks=,1820235745,2458213969
+dimwishlist:item=2349907931&perks=1820235745,124408337
+dimwishlist:item=2349907931&perks=1820235745,4049631843
+dimwishlist:item=2349907931&perks=1820235745,4104185692
+dimwishlist:item=2349907931&perks=1820235745,3708227201
+dimwishlist:item=2349907931&perks=1820235745,2458213969
 
 // LODBROK-C
 //notes:Wilklersticks
-dimwishlist:item=2328531378&perks=,1774574192,11612903
+dimwishlist:item=2328531378&perks=1774574192,11612903
 dimwishlist:item=2328531378&perks=1482024992,1885400500,1359896290,365154968
-dimwishlist:item=2328531378&perks=,3523296417,3592538738
+dimwishlist:item=2328531378&perks=3523296417,3592538738
 
 // DISPARITY
 //notes:Wilklersticks
-dimwishlist:item=1751893422&perks=,1168162263,4104185692
-dimwishlist:item=1751893422&perks=,1168162263,124408337
+dimwishlist:item=1751893422&perks=1168162263,4104185692
+dimwishlist:item=1751893422&perks=1168162263,124408337
 
 // STAY FROSTY
 //notes:Wilklersticks
-dimwishlist:item=2812100428&perks=,744594675,124408337
-dimwishlist:item=2812100428&perks=,744594675,2610012052
-dimwishlist:item=2812100428&perks=,2726471870,124408337
-dimwishlist:item=2812100428&perks=,2726471870,3047969693
+dimwishlist:item=2812100428&perks=744594675,124408337
+dimwishlist:item=2812100428&perks=744594675,2610012052
+dimwishlist:item=2812100428&perks=2726471870,124408337
+dimwishlist:item=2812100428&perks=2726471870,3047969693
 
 // HUNG JURY SR4
 //notes:Wilklersticks
-dimwishlist:item=772231794&perks=,1820235745,3824105627
-dimwishlist:item=772231794&perks=,1820235745,3038247973
-dimwishlist:item=772231794&perks=,1820235745,4104185692
+dimwishlist:item=772231794&perks=1820235745,3824105627
+dimwishlist:item=772231794&perks=1820235745,3038247973
+dimwishlist:item=772231794&perks=1820235745,4104185692
 
 // JARARACA-3SR
 //notes:Wilklersticks
-dimwishlist:item=1851521408&perks=,1354429876,2610012052
-dimwishlist:item=1851521408&perks=,1354429876,124408337
+dimwishlist:item=1851521408&perks=1354429876,2610012052
+dimwishlist:item=1851521408&perks=1354429876,124408337
 
 // COLD FRONT
 //notes:Wilklersticks
-dimwishlist:item=2814093983&perks=,1583705720,4049631843
-dimwishlist:item=2814093983&perks=,1820235745,4104185692
+dimwishlist:item=2814093983&perks=1583705720,4049631843
+dimwishlist:item=2814093983&perks=1820235745,4104185692
 
 // DARK DECIDER
 //notes:Wilklersticks
-dimwishlist:item=540880995&perks=,1820235745,2173046394
-dimwishlist:item=540880995&perks=,1820235745,2610012052
-dimwishlist:item=540880995&perks=,1820235745,2848615171
+dimwishlist:item=540880995&perks=1820235745,2173046394
+dimwishlist:item=540880995&perks=1820235745,2610012052
+dimwishlist:item=540880995&perks=1820235745,2848615171
 dimwishlist:item=1144014195&perks=744594675,2173046394
 
 // TRIPWIRE CANARY
 //notes:Wilklersticks
-dimwishlist:item=3849444474&perks=,2848615171,3365897133
-dimwishlist:item=3849444474&perks=,2848615171,4104185692
+dimwishlist:item=3849444474&perks=2848615171,3365897133
+dimwishlist:item=3849444474&perks=2848615171,4104185692
 
 // JUDGMENT OF KELGORATH
 //notes:Wilklersticks
-dimwishlist:item=2978226043&perks=,3523296417,3592538738
-dimwishlist:item=2978226043&perks=,3523296417,4293542123
+dimwishlist:item=2978226043&perks=3523296417,3592538738
+dimwishlist:item=2978226043&perks=3523296417,4293542123
 
 // EXALTED TRUTH
 //notes:Wilklersticks
-dimwishlist:item=3102421004&perks=,1168162263,4104185692
-dimwishlist:item=3102421004&perks=,1168162263,3425386926
+dimwishlist:item=3102421004&perks=1168162263,4104185692
+dimwishlist:item=3102421004&perks=1168162263,3425386926
 
 // GUNNORA'S AXE
 //notes:Wilklersticks
-dimwishlist:item=487361141&perks=,3300816228,2173046394
+dimwishlist:item=487361141&perks=3300816228,2173046394
 
 // PATH OF LEAST RESISTANCE
 //notes:Wilklersticks
-dimwishlist:item=2827764482&perks=,1048183818,2173046394
+dimwishlist:item=2827764482&perks=1048183818,2173046394
 
 // FIRE AND FORGET
 //notes:Wilklersticks
-dimwishlist:item=2272041093&perks=,124408337,3523296417
-dimwishlist:item=2272041093&perks=,124408337,2978966579
-dimwishlist:item=2272041093&perks=,2869569095,4104185692
+dimwishlist:item=2272041093&perks=124408337,3523296417
+dimwishlist:item=2272041093&perks=124408337,2978966579
+dimwishlist:item=2272041093&perks=2869569095,4104185692
 
 // AVALANCHE
 //notes:Wilklersticks
-dimwishlist:item=495940989&perks=,1820235745,11612903
+dimwishlist:item=495940989&perks=1820235745,11612903
 
 // RETROFIT ESCAPADE
 //notes:Wilklersticks
-dimwishlist:item=3103325054&perks=,2869569095,2610012052
-dimwishlist:item=3103325054&perks=,2869569095,4104185692
-dimwishlist:item=3103325054&perks=,1354429876,365154968
-dimwishlist:item=3103325054&perks=,1354429876,1546637391
+dimwishlist:item=3103325054&perks=2869569095,2610012052
+dimwishlist:item=3103325054&perks=2869569095,4104185692
+dimwishlist:item=3103325054&perks=1354429876,365154968
+dimwishlist:item=3103325054&perks=1354429876,1546637391
 
 // UNWAVERING DUTY
 //notes:Wilklersticks
-dimwishlist:item=3624844116&perks=,2869569095,4293542123
-dimwishlist:item=3624844116&perks=,1820235745,4293542123
-dimwishlist:item=3624844116&perks=,3300816228,4293542123
+dimwishlist:item=3624844116&perks=2869569095,4293542123
+dimwishlist:item=3624844116&perks=1820235745,4293542123
+dimwishlist:item=3624844116&perks=3300816228,4293542123
 
 // ZEPHYR
 //notes:Wilklersticks
-dimwishlist:item=396910433&perks=,1749209109,3650930298
-dimwishlist:item=396910433&perks=,3650930298
+dimwishlist:item=396910433&perks=1749209109,3650930298
+dimwishlist:item=396910433&perks=3650930298
 
 // GALLU RR3
 //notes:CoolGuy
-dimwishlist:item=617501162&perks=,3643424744,957782887
+dimwishlist:item=617501162&perks=3643424744,957782887
 
 // LODBROK-C
 //notes:Wilklersticks
-dimwishlist:item=2328531378&perks=,3751912585
+dimwishlist:item=2328531378&perks=3751912585
 
 // GUNNORA'S AXE
 //notes:Coolguy Wilklersticks
-dimwishlist:item=487361141&perks=,3300816228,1546637391
+dimwishlist:item=487361141&perks=3300816228,1546637391
 
 // ROYAL ENTRY
 //notes:Wilklersticks
-dimwishlist:item=2448907086&perks=,3300816228,3927722942
+dimwishlist:item=2448907086&perks=3300816228,3927722942
 
 // FIORITURA-59
 //notes:Wilklersticks
-dimwishlist:item=2566006935&perks=,691659142,2610012052
-dimwishlist:item=2566006935&perks=,2450788523,2610012052
-dimwishlist:item=2566006935&perks=,1866048759,2416023159
-dimwishlist:item=2566006935&perks=,2450788523,776531651
-dimwishlist:item=2566006935&perks=,691659142,776531651
+dimwishlist:item=2566006935&perks=691659142,2610012052
+dimwishlist:item=2566006935&perks=2450788523,2610012052
+dimwishlist:item=2566006935&perks=1866048759,2416023159
+dimwishlist:item=2566006935&perks=2450788523,776531651
+dimwishlist:item=2566006935&perks=691659142,776531651
 
 // ROAR OF THE BEAR
 //notes:Wilklersticks - All for demo-autoloading
-dimwishlist:item=4009352833&perks=,3523296417,3300816228
+dimwishlist:item=4009352833&perks=3523296417,3300816228
 
 // WENDIGO
 //notes:Wilklersticks
-dimwishlist:item=555148853&perks=,3301904089,3300816228,3194351027
+dimwishlist:item=555148853&perks=3301904089,3300816228,3194351027
 
 // REGNANT
 //notes:Wilklersticks
-dimwishlist:item=268260372&perks=,3301904089,776531651,2048641572
-dimwishlist:item=268260372&perks=,3301904089,3300816228,3194351027
-dimwishlist:item=268260372&perks=,3301904089,968510818,3194351027
+dimwishlist:item=268260372&perks=3301904089,776531651,2048641572
+dimwishlist:item=268260372&perks=3301904089,3300816228,3194351027
+dimwishlist:item=268260372&perks=3301904089,968510818,3194351027
 
 // PHYLLOTACTIC SPIRAL
 //notes:Wilklersticks

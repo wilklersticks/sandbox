@@ -287,7 +287,7 @@ dimwishlist:item=1389546626&perks=839105230,1365187766,3038247973
 dimwishlist:item=1389546626&perks=839105230,2387244414,3751912585
 
 // TARAXIPPOS
-/notes:Wilklersticks Acceptable
+/notes:Acceptable
 dimwishlist:item=1389546626&perks=1365187766,831391274
 dimwishlist:item=1389546626&perks=1365187766,3038247973
 dimwishlist:item=1389546626&perks=2387244414,3751912585

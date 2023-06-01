@@ -327,3 +327,22 @@ dimwishlist:item=839786290&perks=968510818,2978966579
 //notes:Wilklersticks|tags:PVE
 dimwishlist:item=1757202961&perks=1966281507,2224838837
 dimwishlist:item=1757202961&perks=1966281507,1782407750
+
+// RAPACIOUS APPETITE
+//notes:Wilklersticks|tags:PVE
+dimwishlist:item=1081724548&perks=1354429876,124408337
+dimwishlist:item=1081724548&perks=1428297954,124408337
+dimwishlist:item=1081724548&perks=968510818,124408337
+dimwishlist:item=1081724548&perks=1354429876,4104185692
+dimwishlist:item=1081724548&perks=1428297954,4104185692
+dimwishlist:item=1081724548&perks=968510818,4104185692
+
+// A DISTANT PULL
+//notes:Wilklersticks - Stasis Specifically|tags:PVE
+dimwishlist:item=1769847435&perks=3400784728,3324494224
+dimwishlist:item=1769847435&perks=3643424744,3324494224
+
+// A DISTANT PULL
+//notes:Wilklersticks - General Use|tags:PVE
+dimwishlist:item=1769847435&perks=3643424744,2896038713
+dimwishlist:item=1769847435&perks=3400784728,2896038713

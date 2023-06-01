@@ -366,3 +366,7 @@ dimwishlist:item=4287947559&perks=1820235745,2679249093
 // LAST MAN STANDING
 //notes:Wilklersticks|tags:PVP
 dimwishlist:item=4287947559&perks=1866048759,2586829431
+
+// SPARE RATIONS
+//notes:Wilklersticks|tags:PVE
+dimwishlist:item=3236112986&perks=247725512,3891536761

@@ -375,3 +375,7 @@ dimwishlist:item=3236112986&perks=247725512,3891536761
 // WASTELANDER
 //notes:Wilklersticks|tags:PVE
 dimwishlist:item=1679868061&perks=691659142,2679249093
+
+// UNENDING TEMPEST
+//notes:Wilklersticks|tags:PVE
+dimwishlist:item=2510526114&perks=3523296417,124408337

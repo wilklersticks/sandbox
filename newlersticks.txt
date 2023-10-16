@@ -2,16 +2,21 @@ title:Newlersticks
 description:The Future
 
 // Point of the Stag - Coolguy (god-pve)
-//notes: tags:god-pve
+//notes: Newlersticks tags:god-pve
 dimwishlist:item=888872889&perks=2801223209,3827198035,691659142,2848615171
-dimwishlist:item=888872889&perks=2801223209,1500996326,691659142,2848615171
+dimwishlist:item=888872889&perks=2801223209,16392701,691659142,2848615171
 
 
 // Point of the Stag - Generic (pve)
-//notes: tags:pve
+//notes: Newlersticks tags:pve
 dimwishlist:item=888872889&perks=2801223209,3827198035,691659142,2610012052,1050127423
 dimwishlist:item=888872889&perks=2801223209,3827198035,691659142,4082225868,1050127423
-dimwishlist:item=888872889&perks=2801223209,1500996326,691659142,2610012052,1050127423
-dimwishlist:item=888872889&perks=2801223209,1500996326,691659142,4082225868,1050127423
+dimwishlist:item=888872889&perks=2801223209,16392701,691659142,2610012052,1050127423
+dimwishlist:item=888872889&perks=2801223209,16392701,691659142,4082225868,1050127423
+
+
+// Unending Tempest - Unique (god-pve)
+//notes: Newlersticks, Stasis tags:god-pve
+dimwishlist:item=2510526114&perks=
 
 

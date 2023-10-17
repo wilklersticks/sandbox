@@ -31,6 +31,11 @@ dimwishlist:item=888872889&perks=2801223209,3311977193,691659142,4082225868,1050
 dimwishlist:item=888872889&perks=2801223209,16392701,201365942,4082225868
 
 
+// Buzzard (Adept) - Generic (pve)
+//notes: Newlersticks, Kinetic Tremors tags:pve
+dimwishlist:item=927835311&perks=
+
+
 // Rapacious Appetite - Generic (pve)
 //notes: Newlersticks tags:pve
 dimwishlist:item=1081724548&perks=1840239774,1968497646,968510818,4104185692
@@ -274,6 +279,23 @@ dimwishlist:item=1769847435&perks=839105230,2420895100,3400784728,2402480669
 dimwishlist:item=2510526114&perks=3523296417,124408337
 
 
+// Riptide - Targeted (god-pve)
+//notes: Newlersticks tags:god-pve
+dimwishlist:item=2715240478&perks=839105230,2680121939,3300816228,2978966579
+
+
+// Hung Jury SR4 (Adept) - Generic (pve)
+//notes: Newlersticks, Kinetic Tremors tags:pve
+dimwishlist:item=2883684343&perks=1820235745,3891536761
+dimwishlist:item=2883684343&perks=3700496672,3891536761
+dimwishlist:item=2883684343&perks=247725512,3891536761
+
+
+// Autumn Wind - PVP (god-pvp)
+//notes: Newlersticks tags:god-pvp
+dimwishlist:item=3110377595&perks=1885400500,2846385770,460017080
+
+
 // Spare Rations - Niche (pve)
 //notes: Newlersticks tags:pve
 dimwishlist:item=3236112986&perks=1840239774,1087426260,247725512,3891536761
@@ -303,6 +325,22 @@ dimwishlist:item=3292795429&perks=3661387068,1561002382,247725512,3751912585
 dimwishlist:item=3292795429&perks=3661387068,1561002382,2387244414,3751912585
 dimwishlist:item=3292795429&perks=3661387068,1885400500,247725512,3751912585
 dimwishlist:item=3292795429&perks=3661387068,1885400500,2387244414,3751912585
+
+
+// The Immortal - Generic (god-pve)
+//notes: Newlersticks, Hatchling tags:god-pve
+dimwishlist:item=4039572196&perks=3436462433,3523296417
+dimwishlist:item=4039572196&perks=3436462433,831391274
+dimwishlist:item=4039572196&perks=1428297954,3523296417
+dimwishlist:item=4039572196&perks=1428297954,831391274
+dimwishlist:item=4039572196&perks=4071163871,3523296417
+dimwishlist:item=4039572196&perks=4071163871,831391274
+
+
+// The Immortal - PVP (pvp)
+//notes: tags:pvp
+dimwishlist:item=4039572196&perks=2846385770,365154968
+dimwishlist:item=4039572196&perks=4071163871,365154968
 
 
 // Last Man Standing - PVP Hipfire (pvp)

@@ -274,6 +274,18 @@ dimwishlist:item=1769847435&perks=839105230,2420895100,3400784728,2896038713
 dimwishlist:item=1769847435&perks=839105230,2420895100,3400784728,2402480669
 
 
+// Jararaca-3sr - Stasis (pve)
+//notes: Newlersticks, Stasis tags:pve
+dimwishlist:item=1851521408&perks=1354429876,124408337
+dimwishlist:item=1851521408&perks=247725512,124408337
+
+
+// The Showrunner - Generic (pve)
+//notes: Newlersticks, Kinetic Tremors tags:pve
+dimwishlist:item=1999754402&perks=3643424744,3891536761
+dimwishlist:item=1999754402&perks=1359896290,3891536761
+
+
 // Unending Tempest - Unique (god-pve)
 //notes: Newlersticks, Stasis tags:god-pve
 dimwishlist:item=2510526114&perks=3523296417,124408337

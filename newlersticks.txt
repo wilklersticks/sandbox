@@ -1,6 +1,11 @@
 title:Newlersticks
 description:The Future
 
+// Gunnora's Axe - Mr Armageddon (pvp)
+//notes: Newlersticks, Handling Masterwork tags:pvp
+dimwishlist:item=411397829&perks=4090651448,1885400500,4071163871,47981717
+
+
 // Point of the Stag - Coolguy (god-pve)
 //notes: Newlersticks, Coolguy, Drawtime Masterwork tags:god-pve
 dimwishlist:item=888872889&perks=2801223209,3827198035,691659142,2848615171
@@ -19,6 +24,11 @@ dimwishlist:item=888872889&perks=2801223209,3429800428,691659142,2610012052,1050
 dimwishlist:item=888872889&perks=2801223209,3429800428,691659142,4082225868,1050127423
 dimwishlist:item=888872889&perks=2801223209,3311977193,691659142,2610012052,1050127423
 dimwishlist:item=888872889&perks=2801223209,3311977193,691659142,4082225868,1050127423
+
+
+// Point of the Stag - Mr Armageddon (pvp)
+//notes: Newlersticks, Drawtime MW tags:pvp
+dimwishlist:item=888872889&perks=2801223209,16392701,201365942,4082225868
 
 
 // Rapacious Appetite - Generic (pve)
@@ -173,6 +183,28 @@ dimwishlist:item=1081724548&perks=1482024992,3230963543,1428297954,124408337
 dimwishlist:item=1081724548&perks=1482024992,3230963543,1428297954,1171887445
 
 
+// Pressurized Precision - Mr Armageddon (pvp)
+//notes: Newlersticks, Range MW tags:pvp
+dimwishlist:item=1084190509&perks=839105230,2969185026,588594999,2213355989
+dimwishlist:item=1084190509&perks=839105230,2969185026,588594999,2846385770
+
+
+// The Guiding Sight - Mr Armageddon (pvp)
+//notes: Newlersticks, Stability MW tags:pvp
+dimwishlist:item=1161561386&perks=1840239774,1885400500,588594999,1015611457
+dimwishlist:item=1161561386&perks=1840239774,1885400500,588594999,1195158366
+
+
+// Bite of the Fox - Mr Armageddon Chad (pvp)
+//notes: Newlersticks, Ranged Masterwork tags:pvp
+dimwishlist:item=1403800851&perks=3661387068,3177308360,1821614984,588594999
+
+
+// Bite of the Fox - Mr Armageddon Normals (pvp)
+//notes: Newlersticks, Handling Masterwork tags:pvp
+dimwishlist:item=1403800851&perks=1840239774,3142289711,957782887,47981717
+
+
 // Wastelander M5 - Targeted Craft (god-pve)
 //notes: Newlersticks tags:god-pve
 dimwishlist:item=1679868061&perks=536173722,788178929
@@ -239,7 +271,7 @@ dimwishlist:item=1769847435&perks=839105230,2420895100,3400784728,2402480669
 
 // Unending Tempest - Unique (god-pve)
 //notes: Newlersticks, Stasis tags:god-pve
-dimwishlist:item=2510526114&perks=
+dimwishlist:item=2510526114&perks=3523296417,124408337
 
 
 // Spare Rations - Niche (pve)

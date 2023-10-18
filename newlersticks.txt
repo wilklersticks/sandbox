@@ -1,9 +1,29 @@
 title:Newlersticks
 description:The Future
 
+// Horror Story - Generic (pve)
+//notes: Newlersticks, Temp tags:pve
+dimwishlist:item=177568179&perks=3523296417,1546637391
+dimwishlist:item=177568179&perks=3523296417,124408337
+dimwishlist:item=177568179&perks=3523296417,4104185692
+dimwishlist:item=177568179&perks=3828510309,1546637391
+dimwishlist:item=177568179&perks=3828510309,124408337
+dimwishlist:item=177568179&perks=3828510309,4104185692
+
+
 // Gunnora's Axe - Mr Armageddon (pvp)
 //notes: Newlersticks, Handling Masterwork tags:pvp
 dimwishlist:item=411397829&perks=4090651448,1885400500,4071163871,47981717
+
+
+// Acosmic - Generic (pve)
+//notes: Newlersticks, Temp tags:pve
+dimwishlist:item=413901114&perks=2284787283,3194351027
+dimwishlist:item=413901114&perks=2284787283,776531651
+dimwishlist:item=413901114&perks=2284787283,2048641572
+dimwishlist:item=413901114&perks=951095735,3194351027
+dimwishlist:item=413901114&perks=951095735,776531651
+dimwishlist:item=413901114&perks=951095735,2048641572
 
 
 // Point of the Stag - Coolguy (god-pve)
@@ -303,6 +323,22 @@ dimwishlist:item=2883684343&perks=3700496672,3891536761
 dimwishlist:item=2883684343&perks=247725512,3891536761
 
 
+// Jurassic Green - Generic (pve)
+//notes: Newlersticks, Temp tags:pve
+dimwishlist:item=3103255595&perks=1820235745,4293542123
+dimwishlist:item=3103255595&perks=1820235745,460017080
+dimwishlist:item=3103255595&perks=1820235745,4104185692
+dimwishlist:item=3103255595&perks=1820235745,2610012052
+dimwishlist:item=3103255595&perks=1428297954,4293542123
+dimwishlist:item=3103255595&perks=1428297954,460017080
+dimwishlist:item=3103255595&perks=1428297954,4104185692
+dimwishlist:item=3103255595&perks=1428297954,2610012052
+dimwishlist:item=3103255595&perks=3017780555,4293542123
+dimwishlist:item=3103255595&perks=3017780555,460017080
+dimwishlist:item=3103255595&perks=3017780555,4104185692
+dimwishlist:item=3103255595&perks=3017780555,2610012052
+
+
 // Autumn Wind - PVP (god-pvp)
 //notes: Newlersticks tags:god-pvp
 dimwishlist:item=3110377595&perks=1885400500,2846385770,460017080
@@ -337,6 +373,22 @@ dimwishlist:item=3292795429&perks=3661387068,1561002382,247725512,3751912585
 dimwishlist:item=3292795429&perks=3661387068,1561002382,2387244414,3751912585
 dimwishlist:item=3292795429&perks=3661387068,1885400500,247725512,3751912585
 dimwishlist:item=3292795429&perks=3661387068,1885400500,2387244414,3751912585
+
+
+// Mechabre - Generic (pve)
+//notes: Newlersticks, Temp tags:pve
+dimwishlist:item=3871226707&perks=3300816228,11612903
+dimwishlist:item=3871226707&perks=3300816228,1546637391
+dimwishlist:item=3871226707&perks=3300816228,2173046394
+dimwishlist:item=3871226707&perks=3300816228,3978468247
+dimwishlist:item=3871226707&perks=3523296417,11612903
+dimwishlist:item=3871226707&perks=3523296417,1546637391
+dimwishlist:item=3871226707&perks=3523296417,2173046394
+dimwishlist:item=3871226707&perks=3523296417,3978468247
+dimwishlist:item=3871226707&perks=2284787283,11612903
+dimwishlist:item=3871226707&perks=2284787283,1546637391
+dimwishlist:item=3871226707&perks=2284787283,2173046394
+dimwishlist:item=3871226707&perks=2284787283,3978468247
 
 
 // The Immortal - Generic (god-pve)

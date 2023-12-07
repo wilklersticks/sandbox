@@ -368,6 +368,12 @@ dimwishlist:item=1999754402&perks=1359896290,3891536761
 dimwishlist:item=2026755633&perks=3700496672,3891536761
 
 
+// Lethal Abundance - PVE Generic (pve)
+//notes: Newlersticks, PVE tags:pve
+dimwishlist:item=2189073092&perks=923806249,95528736
+dimwishlist:item=2189073092&perks=923806249,831391274
+
+
 // Unending Tempest - Unique (god-pve)
 //notes: Newlersticks, Stasis tags:god-pve
 dimwishlist:item=2510526114&perks=3523296417,124408337

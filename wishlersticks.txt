@@ -328,3 +328,7 @@ dimwishlist:item=839786290&perks=968510818,2978966579
 //notes:Wilklersticks|tags:PVE
 dimwishlist:item=1757202961&perks=1966281507,2224838837
 dimwishlist:item=1757202961&perks=1966281507,1782407750
+
+// TIGERSPITE
+//notes:Wilklersticks|tags:PVE
+dimwishlist:item=2465372924&perks=3643424744,3891536761

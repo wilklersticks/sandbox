@@ -61,6 +61,17 @@ dimwishlist:item=1432682459&perks=2938480696,831391274
 dimwishlist:item=1432682459&perks=2938480696,102912326
 
 
+// Stay Frosty - PVP Targetted (god-pvp)
+//notes: coolguy, Range MW, Omolon Perk tags:god-pvp
+dimwishlist:item=1891321753&perks=202670084,3142289711,1195158366,1015611457
+
+
+// Stay Frosty - PVP (pvp)
+//notes: coolguy, Range MW, Omolon Perk tags:pvp
+dimwishlist:item=1891321753&perks=202670084,3230963543,1195158366,1015611457
+dimwishlist:item=1891321753&perks=202670084,3230963543,1195158366,460017080
+
+
 // Breakneck - GodPVE (god-pve)
 //notes: coolguy, kinetic tremors tags:god-pve
 dimwishlist:item=2026755633&perks=3700496672,3891536761
@@ -97,6 +108,24 @@ dimwishlist:item=2563668388&perks=1467527085,3142289711,3643424744,2896038713
 dimwishlist:item=2563668388&perks=1467527085,3142289711,3643424744,2402480669
 dimwishlist:item=2563668388&perks=1467527085,3142289711,2682205016,2896038713
 dimwishlist:item=2563668388&perks=1467527085,3142289711,2682205016,2402480669
+
+
+// Glacioclasm - PVP Targetted (god-pvp)
+//notes: coolguy tags:god-pvp
+dimwishlist:item=2728851518&perks=202670084,2969185026,1570042021,2652708987,2839173408
+
+
+// Glacioclasm - PVE (pve)
+//notes: coolguy tags:pve
+dimwishlist:item=2728851518&perks=1820235745,2594592626
+dimwishlist:item=2728851518&perks=1820235745,1427256713
+dimwishlist:item=2728851518&perks=3643424744,2594592626
+dimwishlist:item=2728851518&perks=3643424744,1427256713
+
+
+// Nox Perennial V - PVE (pve)
+//notes: coolguy tags:pve
+dimwishlist:item=2767393525&perks=968510818,2594592626
 
 
 // Lethophobia - PVP (pvp)

@@ -49,6 +49,11 @@ dimwishlist:item=177568179&perks=1482024992,106909392,3978468247,3751912585
 dimwishlist:item=177568179&perks=1482024992,3177308360,3978468247,3751912585
 
 
+// Warden's Law (Adept) - General (pve)
+//notes: newlersticks tags:pve
+dimwishlist:item=267089201&perks=1354429876,1546637391
+
+
 // Psi Hermetic V - Coolguy (pvp,god-pvp)
 //notes: Newlersticks, PVP, Push range, Range MW tags:pvp,god-pvp
 dimwishlist:item=358788212&perks=4090651448,3230963543,1195158366,2610012052
@@ -494,6 +499,24 @@ dimwishlist:item=3292795429&perks=3661387068,1561002382,247725512,3751912585
 dimwishlist:item=3292795429&perks=3661387068,1561002382,2387244414,3751912585
 dimwishlist:item=3292795429&perks=3661387068,1885400500,247725512,3751912585
 dimwishlist:item=3292795429&perks=3661387068,1885400500,2387244414,3751912585
+
+
+// Indebted Kindness - Legole PVE Boss DMG (god-pve)
+//notes: newlersticks, Blast Radius MW tags:god-pve
+dimwishlist:item=3381450498&perks=1478423395,1087426260,951095735,3708227201
+
+
+// Indebted Kindness - Legole PVP (pvp)
+//notes: newlersticks, Velo MW, Max Velo
+Strand for silliness, Solar for radiant on Perm tags:pvp
+dimwishlist:item=3381450498&perks=981914802,3492396210,951095735,2428997981
+dimwishlist:item=3381450498&perks=981914802,3492396210,951095735,2173046394
+
+
+// Indebted Kindness - Legole PVE Adds ()
+//notes: newlersticks, Reload MW
+dimwishlist:item=3381450498&perks=1478423395,3230963543,951095735,2173046394
+dimwishlist:item=3381450498&perks=1478423395,3230963543,3828510309,2173046394
 
 
 // Lethophobia - Coolguy ()

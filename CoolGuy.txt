@@ -138,6 +138,11 @@ dimwishlist:item=2728851518&perks=3643424744,1427256713
 dimwishlist:item=2767393525&perks=968510818,2594592626
 
 
+// Multimach CCX - Kinetic Tremors (pvp,pve)
+//notes: CoolGuy, Try to get 2.5m more range tags:pvp,pve
+dimwishlist:item=3211624072&perks=1870851715,3891536761
+
+
 // Lethophobia - PVP (pvp)
 //notes: coolguy, ACC MW tags:pvp
 dimwishlist:item=3710082365&perks=852209214,3429800428,509074078,1683379515

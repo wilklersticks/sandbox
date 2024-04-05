@@ -525,6 +525,11 @@ dimwishlist:item=3381450498&perks=1478423395,3230963543,951095735,2173046394
 dimwishlist:item=3381450498&perks=1478423395,3230963543,3828510309,2173046394
 
 
+// Indebted Kindness - Strand PVE (pve)
+//notes: Newlersticks tags:pve
+dimwishlist:item=3381450498&perks=1556840489,2428997981
+
+
 // Lethophobia - Coolguy ()
 //notes: Newlersticks, Coolguy, Targetted
 dimwishlist:item=3710082365&perks=852209214,3429800428,509074078,1683379515

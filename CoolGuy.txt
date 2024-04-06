@@ -145,6 +145,11 @@ dimwishlist:item=2728851518&perks=3643424744,1427256713
 dimwishlist:item=2767393525&perks=968510818,2594592626
 
 
+// Judgment - Headstone PVE (pve)
+//notes: coolguy tags:pve
+dimwishlist:item=2969415423&perks=124408337,11612903
+
+
 // Multimach CCX - Kinetic Tremors (pvp,pve)
 //notes: CoolGuy, Try to get 2.5m more range tags:pvp,pve
 dimwishlist:item=3211624072&perks=1870851715,3891536761

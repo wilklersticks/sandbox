@@ -143,6 +143,30 @@ dimwishlist:item=2767393525&perks=968510818,2594592626
 dimwishlist:item=3211624072&perks=1870851715,3891536761
 
 
+// Prosecutor - PVP (pvp)
+//notes: CoolGuy, 94-99 Range is best recoil direction tags:pvp
+dimwishlist:item=3483591058&perks=3619207468,4104185692
+dimwishlist:item=3483591058&perks=3619207468,365154968
+dimwishlist:item=3483591058&perks=2387244414,4104185692
+dimwishlist:item=3483591058&perks=2387244414,365154968
+dimwishlist:item=3483591058&perks=1365187766,4104185692
+dimwishlist:item=3483591058&perks=1365187766,365154968
+
+
+// Prosecutor - PVE DMG Rampup (pve)
+//notes: CoolGuy tags:pve
+dimwishlist:item=3483591058&perks=3418782618,2610012052
+dimwishlist:item=3483591058&perks=3418782618,4104185692
+dimwishlist:item=3483591058&perks=3418782618,365154968
+
+
+// Prosecutor - PVE AOE Explosion (pve)
+//notes: CoolGuy tags:pve
+dimwishlist:item=3483591058&perks=2848615171,4104185692
+dimwishlist:item=3483591058&perks=2848615171,2610012052
+dimwishlist:item=3483591058&perks=2848615171,2173046394
+
+
 // Lethophobia - PVP (pvp)
 //notes: coolguy, ACC MW tags:pvp
 dimwishlist:item=3710082365&perks=852209214,3429800428,509074078,1683379515

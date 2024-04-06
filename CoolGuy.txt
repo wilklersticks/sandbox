@@ -53,6 +53,13 @@ dimwishlist:item=120706239&perks=3250034553,3230963543,2541826827,4104185692
 dimwishlist:item=120706239&perks=3250034553,3230963543,2541826827,3007133316
 
 
+// Psi Hermetic V - PVE (pvp,god-pve)
+//notes: coolguy, self-procing explosion w/ whisper of rending (add fissures, shards, and conduction for fun) tags:pvp,god-pve
+dimwishlist:item=358788212&perks=1195158366,124408337
+dimwishlist:item=358788212&perks=1168162263,124408337
+dimwishlist:item=358788212&perks=3828510309,124408337
+
+
 // Vengeful Whisper - PVEVP (pve,pvp)
 //notes: coolguy, 100% ACC and Drawtime tags:pve,pvp
 dimwishlist:item=839344841&perks=852209214,16392701,923806249,831391274

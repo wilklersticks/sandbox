@@ -1,6 +1,26 @@
 title:Aegis S
 description:https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY/htmlview#
 
+// Raconteur - S (god-pve)
+//notes: aegis s, bis, adds, champs tags:god-pve
+dimwishlist:item=45643573&perks=3700496672,124408337
+dimwishlist:item=45643573&perks=3700496672,1171887445
+dimwishlist:item=45643573&perks=3700496672,3365897133
+dimwishlist:item=45643573&perks=3700496672,1551736345
+dimwishlist:item=45643573&perks=2840833776,124408337
+dimwishlist:item=45643573&perks=2840833776,1171887445
+dimwishlist:item=45643573&perks=2840833776,3365897133
+dimwishlist:item=45643573&perks=2840833776,1551736345
+dimwishlist:item=45643573&perks=201365942,124408337
+dimwishlist:item=45643573&perks=201365942,1171887445
+dimwishlist:item=45643573&perks=201365942,3365897133
+dimwishlist:item=45643573&perks=201365942,1551736345
+dimwishlist:item=45643573&perks=3523746922,124408337
+dimwishlist:item=45643573&perks=3523746922,1171887445
+dimwishlist:item=45643573&perks=3523746922,3365897133
+dimwishlist:item=45643573&perks=3523746922,1551736345
+
+
 // Horror Story - BIS Champs (god-pve)
 //notes: aegis s, bis, champs tags:god-pve
 dimwishlist:item=177568179&perks=1870851715,4104185692
@@ -128,6 +148,18 @@ dimwishlist:item=613334176&perks=3797647183,3592538738
 dimwishlist:item=613334176&perks=3797647183,2675361166
 
 
+// Abyss Defiant - S (god-pve)
+//notes: aegis s, bis, adds tags:god-pve
+dimwishlist:item=833898322&perks=3828510309,4293542123
+dimwishlist:item=833898322&perks=3828510309,2675184851
+dimwishlist:item=833898322&perks=1771736209,4293542123
+dimwishlist:item=833898322&perks=1771736209,2675184851
+dimwishlist:item=833898322&perks=1820235745,4293542123
+dimwishlist:item=833898322&perks=1820235745,2675184851
+dimwishlist:item=833898322&perks=4245865861,4293542123
+dimwishlist:item=833898322&perks=4245865861,2675184851
+
+
 // Unwavering Duty - S (god-pve)
 //notes: aegis s tags:god-pve
 dimwishlist:item=906840740&perks=3300816228,3751912585
@@ -139,6 +171,18 @@ dimwishlist:item=906840740&perks=1820235745,4293542123
 dimwishlist:item=906840740&perks=2869569095,3751912585
 dimwishlist:item=906840740&perks=2869569095,557221067
 dimwishlist:item=906840740&perks=2869569095,4293542123
+
+
+// Come to Pass - S (god-pve)
+//notes: aegis s, bis, champs tags:god-pve
+dimwishlist:item=927567426&perks=3096702027,1048183818
+dimwishlist:item=927567426&perks=3096702027,3431277734
+dimwishlist:item=927567426&perks=1658784563,1048183818
+dimwishlist:item=927567426&perks=1658784563,3431277734
+dimwishlist:item=927567426&perks=3700496672,1048183818
+dimwishlist:item=927567426&perks=3700496672,3431277734
+dimwishlist:item=927567426&perks=2840833776,1048183818
+dimwishlist:item=927567426&perks=2840833776,3431277734
 
 
 // Cataclysmic - S (god-pve)
@@ -207,6 +251,14 @@ dimwishlist:item=1815105249&perks=4104185692,3708227201
 dimwishlist:item=1815105249&perks=4104185692,2077819806
 
 
+// The Summoner - S (god-pve)
+//notes: aegis s, sis, adds tags:god-pve
+dimwishlist:item=1820994983&perks=3017780555,4293542123
+dimwishlist:item=1820994983&perks=3017780555,95528736
+dimwishlist:item=1820994983&perks=1820235745,4293542123
+dimwishlist:item=1820994983&perks=1820235745,95528736
+
+
 // Apex Predator - S (god-pve)
 //notes: aegis s tags:god-pve
 dimwishlist:item=1851777734&perks=1523832109,1439600632
@@ -253,6 +305,14 @@ dimwishlist:item=2026755633&perks=3828510309,95528736
 dimwishlist:item=2026755633&perks=3828510309,3891536761
 dimwishlist:item=2026755633&perks=3700496672,95528736
 dimwishlist:item=2026755633&perks=3700496672,3891536761
+
+
+// Ammit AR2 - S (god-pve)
+//notes: aegis s, sis, champs tags:god-pve
+dimwishlist:item=2119346509&perks=2209918983,1048183818
+dimwishlist:item=2119346509&perks=2209918983,3431277734
+dimwishlist:item=2119346509&perks=2000295559,1048183818
+dimwishlist:item=2119346509&perks=2000295559,3431277734
 
 
 // Wilderflight - S (god-pve)
@@ -466,6 +526,14 @@ dimwishlist:item=3366545721&perks=4085959009,1546637391
 dimwishlist:item=3366545721&perks=4085959009,3418165135
 
 
+// Tyranny of Heaven - S (god-pve)
+//notes: aegis s, bis, adds tags:god-pve
+dimwishlist:item=3388655311&perks=2848615171,4293542123
+dimwishlist:item=3388655311&perks=2848615171,2675184851
+dimwishlist:item=3388655311&perks=169755979,4293542123
+dimwishlist:item=3388655311&perks=169755979,2675184851
+
+
 // Succession - S (god-pve)
 //notes: aegis s tags:god-pve
 dimwishlist:item=3612338554&perks=3523296417,3201496230
@@ -492,11 +560,32 @@ dimwishlist:item=3738678140&perks=1631667848,4104185692
 dimwishlist:item=3738678140&perks=1631667848,3708227201
 
 
+// Tripwire Canary - S (god-pve)
+//notes: aegis s, adds, sis tags:god-pve
+dimwishlist:item=3849444474&perks=2848615171,3365897133
+dimwishlist:item=3849444474&perks=2848615171,1551736345
+dimwishlist:item=3849444474&perks=169755979,3365897133
+dimwishlist:item=3849444474&perks=169755979,1551736345
+
+
+// Tripwire Canary - S (god-pve)
+//notes: aegis s, champs, bis tags:god-pve
+dimwishlist:item=3849444474&perks=201365942,1870851715
+dimwishlist:item=3849444474&perks=201365942,183938251
+dimwishlist:item=3849444474&perks=3523746922,1870851715
+dimwishlist:item=3849444474&perks=3523746922,183938251
+
+
 // Unexpected Resurgence - S (god-pve)
 //notes: aegis s tags:god-pve
 dimwishlist:item=4005780578&perks=3300816228,1782407750
 dimwishlist:item=4005780578&perks=3300816228,4104185692
 dimwishlist:item=4005780578&perks=3300816228,2173046394
+
+
+// Accrued Redemption - S (god-pve)
+//notes: aegis s, sis, adds, champs tags:god-pve
+dimwishlist:item=4095896073&perks=201365942,3365897133
 
 
 // Commemoration - S (god-pve)

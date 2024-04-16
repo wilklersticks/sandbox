@@ -44,6 +44,23 @@ dimwishlist:item=192784503&perks=3700496672,3365897133
 dimwishlist:item=192784503&perks=201365942,3365897133
 
 
+// Buzzard - S (god-pve)
+//notes: aegis s, sis, adds tags:god-pve
+dimwishlist:item=213264394&perks=3643424744,3891536761
+
+
+// Mykel's Reverence - S (god-pve)
+//notes: aegis s, bis, adds tags:god-pve
+dimwishlist:item=231031173&perks=3418782618,4104185692
+dimwishlist:item=231031173&perks=3418782618,3007133316
+dimwishlist:item=231031173&perks=3418782618,831391274
+dimwishlist:item=231031173&perks=3418782618,102912326
+dimwishlist:item=231031173&perks=1563455254,4104185692
+dimwishlist:item=231031173&perks=1563455254,3007133316
+dimwishlist:item=231031173&perks=1563455254,831391274
+dimwishlist:item=231031173&perks=1563455254,102912326
+
+
 // Nezarec's Whisper - S (god-pve)
 //notes: aegis s tags:god-pve
 dimwishlist:item=254636484&perks=1556840489,4104185692
@@ -58,6 +75,24 @@ dimwishlist:item=254636484&perks=951095735,4104185692
 dimwishlist:item=254636484&perks=951095735,3007133316
 dimwishlist:item=254636484&perks=3878366039,4104185692
 dimwishlist:item=254636484&perks=3878366039,3007133316
+
+
+// Pointed Inquiry - S (god-pve)
+//notes: aegis s, bis, champs tags:god-pve
+dimwishlist:item=297296830&perks=3700496672,1048183818
+dimwishlist:item=297296830&perks=3700496672,3431277734
+dimwishlist:item=297296830&perks=2840833776,1048183818
+dimwishlist:item=297296830&perks=2840833776,3431277734
+dimwishlist:item=297296830&perks=1658784563,1048183818
+dimwishlist:item=297296830&perks=1658784563,3431277734
+dimwishlist:item=297296830&perks=3096702027,1048183818
+dimwishlist:item=297296830&perks=3096702027,3431277734
+
+
+// Vouchsafe - S (god-pve)
+//notes: aegis s, sis, champs tags:god-pve
+dimwishlist:item=355922321&perks=247725512,3038247973
+dimwishlist:item=355922321&perks=247725512,2848615171
 
 
 // Zaouli's Bane - S (god-pve)
@@ -76,6 +111,12 @@ dimwishlist:item=431721920&perks=64866129,2675184851
 //notes: aegis s, sis, champs tags:god-pve
 dimwishlist:item=435216110&perks=671806388,4104185692
 dimwishlist:item=435216110&perks=671806388,1546637391
+
+
+// Darkest Before - S (god-pve)
+//notes: aegis s, sis, adds tags:god-pve
+dimwishlist:item=435821040&perks=243981275,4293542123
+dimwishlist:item=435821040&perks=3017780555,4293542123
 
 
 // Corrective Measure - S (god-pve)
@@ -98,6 +139,23 @@ dimwishlist:item=484515708&perks=1906147653,4104185692
 dimwishlist:item=484515708&perks=1906147653,3007133316
 dimwishlist:item=484515708&perks=1906147653,831391274
 dimwishlist:item=484515708&perks=1906147653,102912326
+
+
+// Chattering Bone - S (god-pve)
+//notes: aegis s, sis, adds tags:god-pve
+dimwishlist:item=501329015&perks=1015611457,3891536761
+dimwishlist:item=501329015&perks=1015611457,1549370717
+dimwishlist:item=501329015&perks=2923251173,3891536761
+dimwishlist:item=501329015&perks=2923251173,1549370717
+dimwishlist:item=501329015&perks=247725512,3891536761
+dimwishlist:item=501329015&perks=247725512,1549370717
+dimwishlist:item=501329015&perks=2938480696,3891536761
+dimwishlist:item=501329015&perks=2938480696,1549370717
+
+
+// Exalted Truth - S (god-pve)
+//notes: aegis s, bis, champs tags:god-pve
+dimwishlist:item=548809020&perks=1870851715,4104185692
 
 
 // Retraced Path - S (god-pve)
@@ -223,6 +281,18 @@ dimwishlist:item=999767358&perks=848860060,3078487919
 dimwishlist:item=999767358&perks=848860060,3744057135
 
 
+// Oversoul Edict - S (god-pve)
+//notes: aegis s, bis, adds tags:god-pve
+dimwishlist:item=1098171824&perks=3828510309,2173046394
+dimwishlist:item=1098171824&perks=3828510309,1720528630
+dimwishlist:item=1098171824&perks=1771736209,2173046394
+dimwishlist:item=1098171824&perks=1771736209,1720528630
+dimwishlist:item=1098171824&perks=3523296417,2173046394
+dimwishlist:item=1098171824&perks=3523296417,1720528630
+dimwishlist:item=1098171824&perks=1906147653,2173046394
+dimwishlist:item=1098171824&perks=1906147653,1720528630
+
+
 // IKELOS_SG_v1.0.3 - S (god-pve)
 //notes: aegis s tags:god-pve
 dimwishlist:item=1168625549&perks=402033656,788178929
@@ -259,6 +329,42 @@ dimwishlist:item=1218113510&perks=2039302152,3993379141
 dimwishlist:item=1218113510&perks=2039302152,2396489472
 
 
+// Brigand's Law - S (god-pve)
+//notes: aegis s, bis, adds tags:god-pve
+dimwishlist:item=1298815317&perks=4071163871,2173046394
+dimwishlist:item=1298815317&perks=4071163871,1720528630
+dimwishlist:item=1298815317&perks=4071163871,3523296417
+dimwishlist:item=1298815317&perks=4071163871,1906147653
+dimwishlist:item=1298815317&perks=494941759,2173046394
+dimwishlist:item=1298815317&perks=494941759,1720528630
+dimwishlist:item=1298815317&perks=494941759,3523296417
+dimwishlist:item=1298815317&perks=494941759,1906147653
+dimwishlist:item=1298815317&perks=691659142,2173046394
+dimwishlist:item=1298815317&perks=691659142,1720528630
+dimwishlist:item=1298815317&perks=691659142,3523296417
+dimwishlist:item=1298815317&perks=691659142,1906147653
+dimwishlist:item=1298815317&perks=536173722,2173046394
+dimwishlist:item=1298815317&perks=536173722,1720528630
+dimwishlist:item=1298815317&perks=536173722,3523296417
+dimwishlist:item=1298815317&perks=536173722,1906147653
+
+
+// Trustee - S (god-pve)
+//notes: aegis s, sis, adds tags:god-pve
+dimwishlist:item=1392919471&perks=247725512,4293542123
+dimwishlist:item=1392919471&perks=247725512,2402480669
+dimwishlist:item=1392919471&perks=2938480696,4293542123
+dimwishlist:item=1392919471&perks=2938480696,2402480669
+
+
+// Hung Jury SR4 - S (god-pve)
+//notes: aegis s, sis, adds, champs tags:god-pve
+dimwishlist:item=1453235079&perks=3700496672,3824105627
+dimwishlist:item=1453235079&perks=3700496672,3038247973
+dimwishlist:item=1453235079&perks=3891536761,3824105627
+dimwishlist:item=1453235079&perks=3891536761,3038247973
+
+
 // Doomed Petitioner - S (god-pve)
 //notes: aegis s tags:god-pve
 dimwishlist:item=1501688142&perks=1523832109,3708227201
@@ -277,6 +383,11 @@ dimwishlist:item=1501688142&perks=424370782,3708227201
 dimwishlist:item=1501688142&perks=424370782,781192741
 dimwishlist:item=1501688142&perks=424370782,555281244
 dimwishlist:item=1501688142&perks=424370782,332733060
+
+
+// Redback-5si - S (god-pve)
+//notes: aegis s, sis, adds, champs tags:god-pve
+dimwishlist:item=1687353095&perks=671806388,1546637391
 
 
 // Falling Guillotine - S (god-pve)
@@ -325,6 +436,11 @@ dimwishlist:item=1851777734&perks=1906147653,3078487919
 dimwishlist:item=1851777734&perks=1906147653,3744057135
 
 
+// Stay Frosty - S (god-pve)
+//notes: aegis s, bis, champs tags:god-pve
+dimwishlist:item=1891321753&perks=3828510309,1870851715
+
+
 // Hammerhead - S (god-pve)
 //notes: aegis s tags:god-pve
 dimwishlist:item=1896309757&perks=1354429876,557221067
@@ -333,6 +449,23 @@ dimwishlist:item=1896309757&perks=3418782618,557221067
 dimwishlist:item=1896309757&perks=3418782618,95528736
 dimwishlist:item=1896309757&perks=3425386926,557221067
 dimwishlist:item=1896309757&perks=3425386926,95528736
+
+
+// Boudica-C - S (god-pve)
+//notes: aegis s, sis, champs tags:god-pve
+dimwishlist:item=1916287826&perks=4071163871,4104185692
+
+
+// Doom of Chelchis - S (god-pve)
+//notes: aegis s, bis, adds tags:god-pve
+dimwishlist:item=1937552980&perks=3824105627,2848615171
+dimwishlist:item=1937552980&perks=3824105627,169755979
+dimwishlist:item=1937552980&perks=3824105627,4104185692
+dimwishlist:item=1937552980&perks=3824105627,3007133316
+dimwishlist:item=1937552980&perks=1183436451,2848615171
+dimwishlist:item=1937552980&perks=1183436451,169755979
+dimwishlist:item=1937552980&perks=1183436451,4104185692
+dimwishlist:item=1937552980&perks=1183436451,3007133316
 
 
 // Breakneck - BIS Adds (god-pve)
@@ -359,6 +492,14 @@ dimwishlist:item=2171478765&perks=3038247973,3824105627
 dimwishlist:item=2171478765&perks=3038247973,4104185692
 
 
+// Tarnished Mettle - S (god-pve)
+//notes: aegis s, bis, champs tags:god-pve
+dimwishlist:item=2218569744&perks=3700496672,3038247973
+dimwishlist:item=2218569744&perks=3700496672,64866129
+dimwishlist:item=2218569744&perks=2840833776,3038247973
+dimwishlist:item=2218569744&perks=2840833776,64866129
+
+
 // Wilderflight - S (god-pve)
 //notes: aegis s tags:god-pve
 dimwishlist:item=2306182339&perks=3300816228,1556840489
@@ -367,6 +508,19 @@ dimwishlist:item=2306182339&perks=3523296417,1556840489
 dimwishlist:item=2306182339&perks=3523296417,4104185692
 dimwishlist:item=2306182339&perks=776531651,1556840489
 dimwishlist:item=2306182339&perks=776531651,4104185692
+
+
+// Ogma PR6 - S (god-pve)
+//notes: aegis s, sis, champs tags:god-pve
+dimwishlist:item=2342054803&perks=1048183818,1683379515
+
+
+// Blast Furnace - S (god-pve)
+//notes: aegis s, bis, adds tags:god-pve
+dimwishlist:item=2372514508&perks=3891536761,4104185692
+dimwishlist:item=2372514508&perks=3891536761,3824105627
+dimwishlist:item=2372514508&perks=3700496672,4104185692
+dimwishlist:item=2372514508&perks=3700496672,3824105627
 
 
 // Strident Whistle - S (god-pve)
@@ -412,6 +566,14 @@ dimwishlist:item=2763843898&perks=3700496672,3891536761
 dimwishlist:item=2763843898&perks=3700496672,4104185692
 dimwishlist:item=2763843898&perks=3038247973,3891536761
 dimwishlist:item=2763843898&perks=3038247973,4104185692
+
+
+// Optative - S (god-pve)
+//notes: aegis s, sis, champs tags:god-pve
+dimwishlist:item=2817683783&perks=247725512,1870851715
+dimwishlist:item=2817683783&perks=247725512,183938251
+dimwishlist:item=2817683783&perks=2938480696,1870851715
+dimwishlist:item=2817683783&perks=2938480696,183938251
 
 
 // Song of Ir Yût - S (god-pve)
@@ -546,6 +708,14 @@ dimwishlist:item=2990047042&perks=1906147653,3335686050
 dimwishlist:item=2990047042&perks=1906147653,3418165135
 
 
+// Allied Demand - S (god-pve)
+//notes: aegis s, bis, champs tags:god-pve
+dimwishlist:item=3166250992&perks=3300816228,1870851715
+dimwishlist:item=3166250992&perks=3300816228,4104185692
+dimwishlist:item=3166250992&perks=247725512,1870851715
+dimwishlist:item=3166250992&perks=247725512,4104185692
+
+
 // The Other Half - S (god-pve)
 //notes: aegis s tags:god-pve
 dimwishlist:item=3257091167&perks=1749209109,4104185692
@@ -574,6 +744,14 @@ dimwishlist:item=3257091167&perks=1618208178,3913600130
 dimwishlist:item=3257091167&perks=1618208178,147913470
 
 
+// Randy's Throwing Knife - S (god-pve)
+//notes: aegis s, bis, adds, champs tags:god-pve
+dimwishlist:item=3292795429&perks=247725512,3891536761
+dimwishlist:item=3292795429&perks=247725512,1048183818
+dimwishlist:item=3292795429&perks=1870851715,3891536761
+dimwishlist:item=3292795429&perks=1870851715,1048183818
+
+
 // Bequest - S (god-pve)
 //notes: aegis s tags:god-pve
 dimwishlist:item=3366545721&perks=1749209109,3708227201
@@ -592,6 +770,14 @@ dimwishlist:item=3388655311&perks=2848615171,4293542123
 dimwishlist:item=3388655311&perks=2848615171,2675184851
 dimwishlist:item=3388655311&perks=169755979,4293542123
 dimwishlist:item=3388655311&perks=169755979,2675184851
+
+
+// Insidious - S (god-pve)
+//notes: aegis s, bis, champs tags:god-pve
+dimwishlist:item=3428521585&perks=247725512,1048183818
+dimwishlist:item=3428521585&perks=247725512,3431277734
+dimwishlist:item=3428521585&perks=2938480696,1048183818
+dimwishlist:item=3428521585&perks=2938480696,3431277734
 
 
 // Succession - S (god-pve)
@@ -620,6 +806,11 @@ dimwishlist:item=3738678140&perks=1631667848,4104185692
 dimwishlist:item=3738678140&perks=1631667848,3708227201
 
 
+// The Messenger - S (god-pve)
+//notes: aegis s, sis, champs tags:god-pve
+dimwishlist:item=3796795102&perks=1870851715,3891536761
+
+
 // Tripwire Canary - S (god-pve)
 //notes: aegis s, adds, sis tags:god-pve
 dimwishlist:item=3849444474&perks=2848615171,3365897133
@@ -636,11 +827,31 @@ dimwishlist:item=3849444474&perks=3523746922,1870851715
 dimwishlist:item=3849444474&perks=3523746922,183938251
 
 
+// Seventh Seraph SI-2 - S (god-pve)
+//notes: aegis s, sis, adds tags:god-pve
+dimwishlist:item=3937866388&perks=3523296417,2848615171
+
+
+// Heliocentric QSc - S (god-pve)
+//notes: aegis s, bis, adds, champs tags:god-pve
+dimwishlist:item=3998080529&perks=3017780555,4293542123
+dimwishlist:item=3998080529&perks=3017780555,4104185692
+dimwishlist:item=3998080529&perks=3828510309,4293542123
+dimwishlist:item=3998080529&perks=3828510309,4104185692
+dimwishlist:item=3998080529&perks=3523296417,4293542123
+dimwishlist:item=3998080529&perks=3523296417,4104185692
+
+
 // Unexpected Resurgence - S (god-pve)
 //notes: aegis s tags:god-pve
 dimwishlist:item=4005780578&perks=3300816228,1782407750
 dimwishlist:item=4005780578&perks=3300816228,4104185692
 dimwishlist:item=4005780578&perks=3300816228,2173046394
+
+
+// Staccato-46 - S (god-pve)
+//notes: aegis s, sis, champs tags:god-pve
+dimwishlist:item=4019668921&perks=3700496672,1048183818
 
 
 // Accrued Redemption - S (god-pve)

@@ -189,12 +189,12 @@ dimwishlist:item=568611921&perks=2010801679,3592538738
 
 // The Mountaintop - S (god-pve)
 //notes: aegis s tags:god-pve
-dimwishlist:item=568611922&perks=3300816228,4104185692
 dimwishlist:item=568611922&perks=3300816228,469285294
-dimwishlist:item=568611922&perks=3523296417,4104185692
+dimwishlist:item=568611922&perks=3300816228,4104185692
 dimwishlist:item=568611922&perks=3523296417,469285294
-dimwishlist:item=568611922&perks=1556840489,4104185692
+dimwishlist:item=568611922&perks=3523296417,4104185692
 dimwishlist:item=568611922&perks=1556840489,469285294
+dimwishlist:item=568611922&perks=1556840489,4104185692
 
 
 // Edge Transit - S (god-pve)

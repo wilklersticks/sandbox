@@ -21,9 +21,27 @@ dimwishlist:item=45643573&perks=3523746922,3365897133
 dimwishlist:item=45643573&perks=3523746922,1551736345
 
 
+// Nation of Beasts - S (god-pve)
+//notes: aegis s, sis, adds tags:god-pve
+dimwishlist:item=70083888&perks=2848615171,3038247973
+dimwishlist:item=70083888&perks=2848615171,64866129
+dimwishlist:item=70083888&perks=2848615171,2173046394
+dimwishlist:item=70083888&perks=2848615171,1720528630
+dimwishlist:item=70083888&perks=169755979,3038247973
+dimwishlist:item=70083888&perks=169755979,64866129
+dimwishlist:item=70083888&perks=169755979,2173046394
+dimwishlist:item=70083888&perks=169755979,1720528630
+
+
 // Horror Story - BIS Champs (god-pve)
 //notes: aegis s, bis, champs tags:god-pve
 dimwishlist:item=177568179&perks=1870851715,4104185692
+
+
+// Pre Astyanax IV - S (god-pve)
+//notes: aegis s, bis, champs tags:god-pve
+dimwishlist:item=192784503&perks=3700496672,3365897133
+dimwishlist:item=192784503&perks=201365942,3365897133
 
 
 // Nezarec's Whisper - S (god-pve)
@@ -40,6 +58,18 @@ dimwishlist:item=254636484&perks=951095735,4104185692
 dimwishlist:item=254636484&perks=951095735,3007133316
 dimwishlist:item=254636484&perks=3878366039,4104185692
 dimwishlist:item=254636484&perks=3878366039,3007133316
+
+
+// Zaouli's Bane - S (god-pve)
+//notes: aegis s, bis, adds tags:god-pve
+dimwishlist:item=431721920&perks=3038247973,3824105627
+dimwishlist:item=431721920&perks=3038247973,1183436451
+dimwishlist:item=431721920&perks=3038247973,4293542123
+dimwishlist:item=431721920&perks=3038247973,2675184851
+dimwishlist:item=431721920&perks=64866129,3824105627
+dimwishlist:item=431721920&perks=64866129,1183436451
+dimwishlist:item=431721920&perks=64866129,4293542123
+dimwishlist:item=431721920&perks=64866129,2675184851
 
 
 // Duty Bound - SIS Champs (god-pve)
@@ -221,6 +251,14 @@ dimwishlist:item=1168625549&perks=4071163871,3751912585
 dimwishlist:item=1168625549&perks=4071163871,3708227201
 
 
+// Tusk of the Boar - S (god-pve)
+//notes: aegis s tags:god-pve
+dimwishlist:item=1218113510&perks=923806249,3993379141
+dimwishlist:item=1218113510&perks=923806249,2396489472
+dimwishlist:item=1218113510&perks=2039302152,3993379141
+dimwishlist:item=1218113510&perks=2039302152,2396489472
+
+
 // Doomed Petitioner - S (god-pve)
 //notes: aegis s tags:god-pve
 dimwishlist:item=1501688142&perks=1523832109,3708227201
@@ -315,6 +353,12 @@ dimwishlist:item=2119346509&perks=2000295559,1048183818
 dimwishlist:item=2119346509&perks=2000295559,3431277734
 
 
+// Fatebringer - S (god-pve)
+//notes: aegis s, sis, adds, champs tags:god-pve
+dimwishlist:item=2171478765&perks=3038247973,3824105627
+dimwishlist:item=2171478765&perks=3038247973,4104185692
+
+
 // Wilderflight - S (god-pve)
 //notes: aegis s tags:god-pve
 dimwishlist:item=2306182339&perks=3300816228,1556840489
@@ -323,6 +367,12 @@ dimwishlist:item=2306182339&perks=3523296417,1556840489
 dimwishlist:item=2306182339&perks=3523296417,4104185692
 dimwishlist:item=2306182339&perks=776531651,1556840489
 dimwishlist:item=2306182339&perks=776531651,4104185692
+
+
+// Strident Whistle - S (god-pve)
+//notes: aegis s, sis, champs tags:god-pve
+dimwishlist:item=2591241074&perks=3700496672,3365897133
+dimwishlist:item=2591241074&perks=201365942,3365897133
 
 
 // Riptide - S (god-pve)
@@ -352,6 +402,16 @@ dimwishlist:item=2738601016&perks=1771897777,968510818,3751912585
 dimwishlist:item=2738601016&perks=1771897777,968510818,3078487919
 dimwishlist:item=2738601016&perks=332133599,968510818,3751912585
 dimwishlist:item=2738601016&perks=332133599,968510818,3078487919
+
+
+// Midnight Coup - S (god-pve)
+//notes: aegis s, bis, adds, champs tags:god-pve
+dimwishlist:item=2763843898&perks=3824105627,3891536761
+dimwishlist:item=2763843898&perks=3824105627,4104185692
+dimwishlist:item=2763843898&perks=3700496672,3891536761
+dimwishlist:item=2763843898&perks=3700496672,4104185692
+dimwishlist:item=2763843898&perks=3038247973,3891536761
+dimwishlist:item=2763843898&perks=3038247973,4104185692
 
 
 // Song of Ir Yût - S (god-pve)

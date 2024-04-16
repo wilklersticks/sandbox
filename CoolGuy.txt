@@ -115,6 +115,27 @@ dimwishlist:item=2189073092&perks=4090651448,1885400500,923806249,95528736
 dimwishlist:item=2189073092&perks=4090651448,1885400500,923806249,1890422124
 
 
+// Elsie's Rifle - Targetted (god-pvp)
+//notes: coolguy, try for 83 or 100 recoil direction, range MW tags:god-pvp
+dimwishlist:item=2372514509&perks=1482024992,1885400500,2387244414,460017080
+
+
+// Elsie's Rifle - PVP (pvp)
+//notes: coolguy, try for 83 or 100 recoil direction tags:pvp
+dimwishlist:item=2372514509&perks=2387244414,460017080
+dimwishlist:item=2372514509&perks=2387244414,1015611457
+dimwishlist:item=2372514509&perks=2387244414,3047969693
+dimwishlist:item=2372514509&perks=2387244414,2109543898
+dimwishlist:item=2372514509&perks=1870851715,460017080
+dimwishlist:item=2372514509&perks=1870851715,1015611457
+dimwishlist:item=2372514509&perks=1870851715,3047969693
+dimwishlist:item=2372514509&perks=1870851715,2109543898
+dimwishlist:item=2372514509&perks=3619207468,460017080
+dimwishlist:item=2372514509&perks=3619207468,1015611457
+dimwishlist:item=2372514509&perks=3619207468,3047969693
+dimwishlist:item=2372514509&perks=3619207468,2109543898
+
+
 // Scalar Potential - PVP (pvp)
 //notes: coolguy tags:pvp
 dimwishlist:item=2563668388&perks=1467527085,3142289711,3619207468,2896038713

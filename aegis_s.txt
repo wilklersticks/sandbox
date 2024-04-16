@@ -281,6 +281,24 @@ dimwishlist:item=999767358&perks=848860060,3078487919
 dimwishlist:item=999767358&perks=848860060,3744057135
 
 
+// Adjudicator - S (god-pve)
+//notes: aegis s, sis, adds tags:god-pve
+dimwishlist:item=1013434963&perks=4071163871,4104185692
+dimwishlist:item=1013434963&perks=4071163871,3891536761
+dimwishlist:item=1013434963&perks=4071163871,95528736
+dimwishlist:item=1013434963&perks=1820235745,4104185692
+dimwishlist:item=1013434963&perks=1820235745,3891536761
+dimwishlist:item=1013434963&perks=1820235745,95528736
+
+
+// The Recluse - S (god-pve)
+//notes: aegis s, sis, adds tags:god-pve
+dimwishlist:item=1050806815&perks=3828510309,2109543898
+dimwishlist:item=1050806815&perks=3828510309,4104185692
+dimwishlist:item=1050806815&perks=776531651,2109543898
+dimwishlist:item=1050806815&perks=776531651,4104185692
+
+
 // Oversoul Edict - S (god-pve)
 //notes: aegis s, bis, adds tags:god-pve
 dimwishlist:item=1098171824&perks=3828510309,2173046394
@@ -355,6 +373,34 @@ dimwishlist:item=1392919471&perks=247725512,4293542123
 dimwishlist:item=1392919471&perks=247725512,2402480669
 dimwishlist:item=1392919471&perks=2938480696,4293542123
 dimwishlist:item=1392919471&perks=2938480696,2402480669
+
+
+// Subjunctive - S (god-pve)
+//notes: aegis s, bis, adds tags:god-pve
+dimwishlist:item=1447836603&perks=3700496672,4049631843
+dimwishlist:item=1447836603&perks=3700496672,859780267
+dimwishlist:item=1447836603&perks=3700496672,2173046394
+dimwishlist:item=1447836603&perks=3700496672,1720528630
+dimwishlist:item=1447836603&perks=2840833776,4049631843
+dimwishlist:item=1447836603&perks=2840833776,859780267
+dimwishlist:item=1447836603&perks=2840833776,2173046394
+dimwishlist:item=1447836603&perks=2840833776,1720528630
+dimwishlist:item=1447836603&perks=4071163871,4049631843
+dimwishlist:item=1447836603&perks=4071163871,859780267
+dimwishlist:item=1447836603&perks=4071163871,2173046394
+dimwishlist:item=1447836603&perks=4071163871,1720528630
+dimwishlist:item=1447836603&perks=494941759,4049631843
+dimwishlist:item=1447836603&perks=494941759,859780267
+dimwishlist:item=1447836603&perks=494941759,2173046394
+dimwishlist:item=1447836603&perks=494941759,1720528630
+dimwishlist:item=1447836603&perks=1583705720,4049631843
+dimwishlist:item=1447836603&perks=1583705720,859780267
+dimwishlist:item=1447836603&perks=1583705720,2173046394
+dimwishlist:item=1447836603&perks=1583705720,1720528630
+dimwishlist:item=1447836603&perks=1409206216,4049631843
+dimwishlist:item=1447836603&perks=1409206216,859780267
+dimwishlist:item=1447836603&perks=1409206216,2173046394
+dimwishlist:item=1447836603&perks=1409206216,1720528630
 
 
 // Hung Jury SR4 - S (god-pve)
@@ -680,6 +726,12 @@ dimwishlist:item=2889501828&perks=2396489472,3650930298
 dimwishlist:item=2889501828&perks=2396489472,3523296417
 
 
+// Out of Bounds - S (god-pve)
+//notes: aegis s, sis, champs tags:god-pve
+dimwishlist:item=2988121501&perks=4071163871,1870851715
+dimwishlist:item=2988121501&perks=3523296417,1870851715
+
+
 // Succession - S (god-pve)
 //notes: aegis s tags:god-pve
 dimwishlist:item=2990047042&perks=1523832109,1774574192
@@ -714,6 +766,14 @@ dimwishlist:item=3166250992&perks=3300816228,1870851715
 dimwishlist:item=3166250992&perks=3300816228,4104185692
 dimwishlist:item=3166250992&perks=247725512,1870851715
 dimwishlist:item=3166250992&perks=247725512,4104185692
+
+
+// Multimach CCX - S (god-pve)
+//notes: aegis s, bis, adds tags:god-pve
+dimwishlist:item=3211624072&perks=243981275,4104185692
+dimwishlist:item=3211624072&perks=243981275,3891536761
+dimwishlist:item=3211624072&perks=1870851715,4104185692
+dimwishlist:item=3211624072&perks=1870851715,3891536761
 
 
 // The Other Half - S (god-pve)
@@ -825,6 +885,11 @@ dimwishlist:item=3849444474&perks=201365942,1870851715
 dimwishlist:item=3849444474&perks=201365942,183938251
 dimwishlist:item=3849444474&perks=3523746922,1870851715
 dimwishlist:item=3849444474&perks=3523746922,183938251
+
+
+// Parabellum - S (god-pve)
+//notes: aegis s, bis, champs tags:god-pve
+dimwishlist:item=3926811686&perks=3828510309,1870851715
 
 
 // Seventh Seraph SI-2 - S (god-pve)

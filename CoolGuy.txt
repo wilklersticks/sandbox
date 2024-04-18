@@ -200,6 +200,18 @@ dimwishlist:item=3483591058&perks=2848615171,2610012052
 dimwishlist:item=3483591058&perks=2848615171,2173046394
 
 
+// Succession - PVE Targetted (god-pve)
+//notes: coolguy tags:god-pve
+dimwishlist:item=3612338554&perks=3978468247,469285294
+
+
+// Succession - PVE (pve)
+//notes: coolguy tags:pve
+dimwishlist:item=3612338554&perks=3978468247,3201496230
+dimwishlist:item=3612338554&perks=3978468247,1546637391
+dimwishlist:item=3612338554&perks=3978468247,1771339417
+
+
 // Lethophobia - PVP (pvp)
 //notes: coolguy, ACC MW tags:pvp
 dimwishlist:item=3710082365&perks=852209214,3429800428,509074078,1683379515

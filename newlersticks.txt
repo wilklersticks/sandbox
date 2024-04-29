@@ -49,6 +49,14 @@ dimwishlist:item=177568179&perks=1482024992,106909392,3978468247,3751912585
 dimwishlist:item=177568179&perks=1482024992,3177308360,3978468247,3751912585
 
 
+// Hammerhead - DoubleGod (god-pve)
+//notes: newlersticks tags:god-pve
+dimwishlist:item=211732170&perks=3418782618,95528736
+dimwishlist:item=211732170&perks=3418782618,557221067
+dimwishlist:item=211732170&perks=968510818,95528736
+dimwishlist:item=211732170&perks=968510818,557221067
+
+
 // Warden's Law (Adept) - General (pve)
 //notes: newlersticks tags:pve
 dimwishlist:item=267089201&perks=1354429876,1546637391
@@ -100,6 +108,14 @@ dimwishlist:item=568611922&perks=981914802,3492396210,1556840489,1546637391
 dimwishlist:item=568611922&perks=981914802,3492396210,1556840489,469285294
 dimwishlist:item=568611922&perks=981914802,3492396210,3643424744,1546637391
 dimwishlist:item=568611922&perks=981914802,3492396210,3643424744,469285294
+
+
+// Succession - DoubleGod (god-pve)
+//notes: newlersticks tags:god-pve
+dimwishlist:item=570866107&perks=3978468247,469285294
+dimwishlist:item=570866107&perks=3978468247,1771339417
+dimwishlist:item=570866107&perks=1556840489,469285294
+dimwishlist:item=570866107&perks=1556840489,1771339417
 
 
 // Hullabaloo - Generic (pve)
@@ -409,6 +425,26 @@ dimwishlist:item=2026755633&perks=3700496672,3891536761
 //notes: Newlersticks, PVE tags:pve
 dimwishlist:item=2189073092&perks=923806249,95528736
 dimwishlist:item=2189073092&perks=923806249,831391274
+
+
+// Edge Transit - DoubleGod (god-pve)
+//notes: newlersticks tags:god-pve
+dimwishlist:item=2228325504&perks=3301904089,968510818,3078487919
+dimwishlist:item=2228325504&perks=3301904089,3751912585,3078487919
+dimwishlist:item=2228325504&perks=409831596,968510818,3078487919
+dimwishlist:item=2228325504&perks=409831596,3751912585,3078487919
+dimwishlist:item=2228325504&perks=1771897777,968510818,3078487919
+dimwishlist:item=2228325504&perks=1771897777,3751912585,3078487919
+dimwishlist:item=2228325504&perks=332133599,968510818,3078487919
+dimwishlist:item=2228325504&perks=332133599,3751912585,3078487919
+
+
+// Midnight Coup - DoubleGod (god-pve,god-pvp)
+//notes: newlersticks tags:god-pve,god-pvp
+dimwishlist:item=2499720827&perks=3700496672,3891536761
+dimwishlist:item=2499720827&perks=3700496672,2387244414
+dimwishlist:item=2499720827&perks=3824105627,3891536761
+dimwishlist:item=2499720827&perks=3824105627,2387244414
 
 
 // Unending Tempest - Unique (god-pve)

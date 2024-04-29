@@ -49,6 +49,14 @@ dimwishlist:item=177568179&perks=1482024992,106909392,3978468247,3751912585
 dimwishlist:item=177568179&perks=1482024992,3177308360,3978468247,3751912585
 
 
+// Hung Jury SR4 - DoubleGod (god-pve,pvp)
+//notes: newlersticks, doublegod tags:god-pve,pvp
+dimwishlist:item=205225492&perks=3700496672,3038247973
+dimwishlist:item=205225492&perks=3700496672,3824105627
+dimwishlist:item=205225492&perks=3891536761,3038247973
+dimwishlist:item=205225492&perks=3891536761,3824105627
+
+
 // Hammerhead - DoubleGod (god-pve)
 //notes: newlersticks, doublegod tags:god-pve
 dimwishlist:item=211732170&perks=
@@ -426,6 +434,14 @@ dimwishlist:item=2189073092&perks=923806249,831391274
 dimwishlist:item=2228325504&perks=
 
 
+// Forbearance - DoubleGod (god-pve)
+//notes: newlersticks, doublegod tags:god-pve
+dimwishlist:item=2480074702&perks=3523296417,3592538738
+dimwishlist:item=2480074702&perks=3523296417,2396489472
+dimwishlist:item=2480074702&perks=2010801679,3592538738
+dimwishlist:item=2480074702&perks=2010801679,2396489472
+
+
 // Midnight Coup - DoubleGod (god-pve,god-pvp)
 //notes: newlersticks, doublegod tags:god-pve,god-pvp
 dimwishlist:item=2499720827&perks=
@@ -484,6 +500,14 @@ dimwishlist:item=2728851518&perks=1840239774,2680121939,3643424744,1427256713
 dimwishlist:item=2883684343&perks=1820235745,3891536761
 dimwishlist:item=2883684343&perks=3700496672,3891536761
 dimwishlist:item=2883684343&perks=247725512,3891536761
+
+
+// The Recluse - DoubleGod (god-pve)
+//notes: newlersticks, doublegod tags:god-pve
+dimwishlist:item=3098328572&perks=776531651,2048641572
+dimwishlist:item=3098328572&perks=776531651,4104185692
+dimwishlist:item=3098328572&perks=3828510309,2048641572
+dimwishlist:item=3098328572&perks=3828510309,4104185692
 
 
 // Jurassic Green - Generic (pve)
@@ -578,6 +602,22 @@ dimwishlist:item=3710082365&perks=852209214,3429800428,64332393,1683379515
 dimwishlist:item=3710082365&perks=852209214,3429800428,64332393,2216471363
 
 
+// Luna's Howl - DoubleGod (god-pve,god-pvp)
+//notes: newlersticks, doublegod tags:god-pve,god-pvp
+dimwishlist:item=3757612024&perks=3017780555,4293542123
+dimwishlist:item=3757612024&perks=3017780555,2720533289
+dimwishlist:item=3757612024&perks=699525795,4293542123
+dimwishlist:item=3757612024&perks=699525795,2720533289
+
+
+// Elsie's Rifle - DoubleGod (god-pve,god-pvp)
+//notes: newlersticks, doublegod tags:god-pve,god-pvp
+dimwishlist:item=3851176026&perks=1870851715,460017080
+dimwishlist:item=3851176026&perks=1870851715,2109543898
+dimwishlist:item=3851176026&perks=2387244414,460017080
+dimwishlist:item=3851176026&perks=2387244414,2109543898
+
+
 // Mechabre - Generic (pve)
 //notes: Newlersticks, Temp tags:pve
 dimwishlist:item=3871226707&perks=3300816228,1546637391,905869860
@@ -612,6 +652,18 @@ dimwishlist:item=4039572196&perks=4071163871,831391274
 //notes: tags:pvp
 dimwishlist:item=4039572196&perks=2846385770,365154968
 dimwishlist:item=4039572196&perks=4071163871,365154968
+
+
+// The Mountaintop - DoubleGod (god-pve)
+//notes: newlersticks, doublegod tags:god-pve
+dimwishlist:item=4043921923&perks=3301904089,3300816228,469285294
+dimwishlist:item=4043921923&perks=3301904089,3300816228,4104185692
+dimwishlist:item=4043921923&perks=3301904089,1556840489,469285294
+dimwishlist:item=4043921923&perks=3301904089,1556840489,4104185692
+dimwishlist:item=4043921923&perks=3492396210,3300816228,469285294
+dimwishlist:item=4043921923&perks=3492396210,3300816228,4104185692
+dimwishlist:item=4043921923&perks=3492396210,1556840489,469285294
+dimwishlist:item=4043921923&perks=3492396210,1556840489,4104185692
 
 
 // Marcato-45 - General PVE (pve)

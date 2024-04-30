@@ -467,6 +467,14 @@ dimwishlist:item=2499720827&perks=3824105627,3891536761
 dimwishlist:item=2499720827&perks=3824105627,2387244414
 
 
+// Midnight Coup - DoubleGod PVE Only (god-pve)
+//notes: newlersticks, doublegod tags:god-pve
+dimwishlist:item=2499720827&perks=3824105627,3891536761
+dimwishlist:item=2499720827&perks=3824105627,4049631843
+dimwishlist:item=2499720827&perks=3038247973,3891536761
+dimwishlist:item=2499720827&perks=3038247973,4049631843
+
+
 // Unending Tempest - Unique (god-pve)
 //notes: Newlersticks, Stasis tags:god-pve
 dimwishlist:item=2510526114&perks=3523296417,124408337

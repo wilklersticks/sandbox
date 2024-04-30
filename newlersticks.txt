@@ -480,6 +480,14 @@ dimwishlist:item=2499720827&perks=3038247973,4049631843
 dimwishlist:item=2510526114&perks=3523296417,124408337
 
 
+// Blast Furnace - DoubleGod (god-pve)
+//notes: newlersticks, doublegod tags:god-pve
+dimwishlist:item=2533990645&perks=3891536761,3824105627
+dimwishlist:item=2533990645&perks=3891536761,4104185692
+dimwishlist:item=2533990645&perks=3700496672,3824105627
+dimwishlist:item=2533990645&perks=3700496672,4104185692
+
+
 // Riptide - Targeted (god-pve)
 //notes: Newlersticks tags:god-pve
 dimwishlist:item=2715240478&perks=839105230,2680121939,3300816228,2978966579

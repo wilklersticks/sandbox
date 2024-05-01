@@ -640,10 +640,12 @@ dimwishlist:item=3710082365&perks=852209214,3429800428,64332393,2216471363
 
 // Luna's Howl - DoubleGod (god-pve,god-pvp)
 //notes: newlersticks, doublegod tags:god-pve,god-pvp
-dimwishlist:item=3757612024&perks=3017780555,4293542123
-dimwishlist:item=3757612024&perks=3017780555,2720533289
+dimwishlist:item=3757612024&perks=699525795,1015611457
 dimwishlist:item=3757612024&perks=699525795,4293542123
-dimwishlist:item=3757612024&perks=699525795,2720533289
+dimwishlist:item=3757612024&perks=3017780555,1015611457
+dimwishlist:item=3757612024&perks=3017780555,4293542123
+dimwishlist:item=3757612024&perks=1820235745,1015611457
+dimwishlist:item=3757612024&perks=1820235745,4293542123
 
 
 // Elsie's Rifle - DoubleGod (god-pve,god-pvp)

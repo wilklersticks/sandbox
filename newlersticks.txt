@@ -531,6 +531,16 @@ dimwishlist:item=2728851518&perks=1840239774,2680121939,3643424744,2594592626
 dimwishlist:item=2728851518&perks=1840239774,2680121939,3643424744,1427256713
 
 
+// Luna's Howl - PVE (pve)
+//notes: newlersticks tags:pve
+dimwishlist:item=2763843899&perks=3017780555,4293542123
+dimwishlist:item=2763843899&perks=3017780555,2720533289
+dimwishlist:item=2763843899&perks=1820235745,4293542123
+dimwishlist:item=2763843899&perks=1820235745,2720533289
+dimwishlist:item=2763843899&perks=3828510309,4293542123
+dimwishlist:item=2763843899&perks=3828510309,2720533289
+
+
 // Hung Jury SR4 (Adept) - Generic (pve)
 //notes: Newlersticks, Kinetic Tremors tags:pve
 dimwishlist:item=2883684343&perks=1820235745,3891536761

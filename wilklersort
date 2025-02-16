@@ -1,0 +1,64 @@
+(
+	/* custom wilkler-sort v046-S26 */ 
+	(is:legendary
+		(basestat:total:>=68 or
+			(basestat:total:>=65 perkname:"artifice armor") or
+			(basestat:total:>=67 
+				(
+					(basestat:pvp:>=57)  or 
+					(basestat:custom:>=59 is:hunter) or
+					(basestat:custom:>=57 
+						(is:warlock or is:titan)
+					)
+				)
+			) or
+			(basestat:total:>=64 perkname:"artifice armor"
+				(
+					(basestat:pvp:>=54)  or 
+					(basestat:custom:>=56 is:hunter) or
+					(basestat:custom:>=54 
+						(is:warlock or is:titan)
+					)
+				)
+			) or
+			(basestat:total:>=65
+				(
+					basestat:secondhighest:>=24
+					(basestat:pvp:>=59) or 
+					(basestat:custom:>=61 is:hunter) or
+					(basestat:custom:>=59 
+						(is:warlock or is:titan)
+					)
+				)
+			)
+		)
+	) or 
+	(perkname:"artifice armor" is:classitem -is:dupelower) or
+	(#TopCat) or
+	(name:"masquerader's" is:masterwork) or
+	(is:exotic -is:classitem
+		(
+			(is:armor -is:customstatlower) or
+			(-exactname:"ergo sum" (is:weapon -is:dupelower))
+		)
+	) or 
+	wishlistnotes:Classlerstick or
+	wishlistnotes:god-pve or 
+	wishlistnotes:god-pvp or 
+	wishlistnotes:wilklersticks or
+	wishlistnotes:newlersticks or
+	wishlistnotes:coolguy or
+	(wishlistnotes:"aegis s" and (
+		wishlistnotes:"bis" or wishlistnotes:"sis")
+	) or
+	notes:dupeonpurpose or
+	notes:BIS or
+	(exactperk:demolitionist exactperk:wellspring) or
+	(perkname:"kinetic tremors" perkname:"shoot to loot") or
+	(perkname:"rewind rounds"  perkname:deconstruct) or
+	(source:ritual-weapon 
+		(-name:"point of the stag" -name:"randy's throwing knife")
+	) or
+	is:crafted or
+	inloadout:baseline
+)

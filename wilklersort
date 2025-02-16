@@ -1,5 +1,5 @@
 (
-	/* custom wilkler-sort v046-S26 */ 
+	/* custom wilkler-sort v046-S26, Aegis Adjustment*/ 
 	(is:legendary
 		(basestat:total:>=68 or
 			(basestat:total:>=65 perkname:"artifice armor") or

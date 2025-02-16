@@ -48,9 +48,7 @@
 	wishlistnotes:wilklersticks or
 	wishlistnotes:newlersticks or
 	wishlistnotes:coolguy or
-	(wishlistnotes:"aegis s" and (
-		wishlistnotes:"bis" or wishlistnotes:"sis")
-	) or
+	(wishlistnotes:"aegis s" and wishlistnotes:"god-pve") or
 	notes:dupeonpurpose or
 	notes:BIS or
 	(exactperk:demolitionist exactperk:wellspring) or
